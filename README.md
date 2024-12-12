@@ -7,6 +7,6 @@ The dataset used for this project is publicly available and can be accessed thro
 
 ## Tableau Dashboard
 The Tableau visualization for this project is available on my public Tableau profile at the link below:
-- [Tableau Google Play Store Apps Dashboard](https://public.tableau.com/shared/PQFG3FRWM?:display_count=n&:origin=viz_share_link)
+- [Tableau Google Play Store Apps Dashboard](https://public.tableau.com/views/TableauGooglePlayAppsProject/GooglePlayAppsOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Thank you for exploring my project! If you have any questions or feedback, please feel free to reach out.
